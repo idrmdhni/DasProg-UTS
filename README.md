@@ -1,4 +1,4 @@
-# Proyek Pengelolaan Transaksi Pembelian Sawit
+# Proyek UTS - Aplikasi Pengelolaan Transaksi Pembelian Sawit
 Proyek ini adalah aplikasi konsol sederhana yang dibuat dengan Python untuk mengelola transaksi pembelian kelapa sawit. Aplikasi ini merupakan bagian dari tugas Ujian Tengah Semester (UTS) untuk mata kuliah Dasar Pemrograman.
 
 ## Deskripsi
